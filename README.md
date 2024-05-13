@@ -1,1 +1,1 @@
-My first readme
+This is where we create a lot of news
