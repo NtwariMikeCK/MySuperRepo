@@ -1,2 +1,1 @@
-# Git Directory
-This is the README file for the git directory.
+Hello everyone, my name is mike
