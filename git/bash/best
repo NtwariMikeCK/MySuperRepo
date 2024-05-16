@@ -1,3 +1,4 @@
-
-#!bin/bash/necho "Best pool"
+<<<<<<< HEAD
+#!/bin/bash
+echo "Best school"
 >>>>>>> update_script
