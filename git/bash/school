@@ -1,1 +1,2 @@
-#!bin/bash/necho "I love Mikeol"
+#!/bin/bash
+echo "The school is open!"
